@@ -1,4 +1,4 @@
-## bem vindo ao meu perfil 🤤
+## bem vindo ao meu perfil :D
 
 . meu nome e caiquebahia
 
