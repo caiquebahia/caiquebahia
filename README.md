@@ -1,16 +1,18 @@
-## Hi there 👋
+## bem vindo ao meu perfil 🤤
 
-<!--
-**caiquebahia/caiquebahia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+. meu nome e caiquebahia
 
-Here are some ideas to get you started:
+. estou estudando alura 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+. estou me desenvolvendo na linguagem JavaScrit
+
+. planejo criar varios projetos e aprender muito mais a cada dia 
+
+. pretendo aprender muito e por meio disso conseguir conquistar mais uma etapa do meu sonho
+
+### voce pode entrar em contato comigo atraves do meu email 
+
+itachi400400@gmail.com
+
+![](![image](https://github.com/user-attachments/assets/18676020-3653-4842-a3fa-f677c9b51116)
+)
